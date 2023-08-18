@@ -1,0 +1,9 @@
+{
+  "name": "Locals",
+  "packageManager": "yarn@3.6.2",
+  "os": [
+"linux",
+"darwin",
+"win32",
+]
+}
